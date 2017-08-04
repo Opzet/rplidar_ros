@@ -1,0 +1,10 @@
+E:\Projects\RPLIDAR\RPLIDAR\RPLidarSerial\bin\Debug\RPLidarSerial.dll
+E:\Projects\RPLIDAR\RPLIDAR\RPLidarSerial\bin\Debug\RPLidarSerial.pdb
+E:\Projects\RPLIDAR\RPLIDAR\RPLidarSerial\obj\Debug\RPLidarSerial.dll
+E:\Projects\RPLIDAR\RPLIDAR\RPLidarSerial\obj\Debug\RPLidarSerial.pdb
+E:\Projects\RPLIDAR\RPLIDAR\RPLidarSerial\obj\Debug\RPLidarSerial.csprojResolveAssemblyReference.cache
+C:\Users\Brainstorm - Editing\Desktop\RPLIDAR\RPLIDAR\RPLidarSerial\bin\Debug\RPLidarSerial.dll
+C:\Users\Brainstorm - Editing\Desktop\RPLIDAR\RPLIDAR\RPLidarSerial\bin\Debug\RPLidarSerial.pdb
+C:\Users\Brainstorm - Editing\Desktop\RPLIDAR\RPLIDAR\RPLidarSerial\obj\Debug\RPLidarSerial.dll
+C:\Users\Brainstorm - Editing\Desktop\RPLIDAR\RPLIDAR\RPLidarSerial\obj\Debug\RPLidarSerial.pdb
+C:\Users\Brainstorm - Editing\Desktop\RPLIDAR\RPLIDAR\RPLidarSerial\obj\Debug\RPLidarSerial.csprojResolveAssemblyReference.cache

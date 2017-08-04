@@ -1,0 +1,4 @@
+E:\Projects\RPLIDAR\RPLIDAR\RPConnect\bin\Debug\RPLidarSerial.exe
+E:\Projects\RPLIDAR\RPLIDAR\RPConnect\bin\Debug\RPLidarSerial.pdb
+E:\Projects\RPLIDAR\RPLIDAR\RPConnect\obj\Debug\RPLidarSerial.exe
+E:\Projects\RPLIDAR\RPLIDAR\RPConnect\obj\Debug\RPLidarSerial.pdb

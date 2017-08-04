@@ -1,0 +1,5 @@
+E:\Projects\RPLIDAR\RPLIDAR\RPConnect\bin\Debug\RPConnect.exe
+E:\Projects\RPLIDAR\RPLIDAR\RPConnect\bin\Debug\RPConnect.pdb
+E:\Projects\RPLIDAR\RPLIDAR\RPConnect\obj\Debug\RPConnect.exe
+E:\Projects\RPLIDAR\RPLIDAR\RPConnect\obj\Debug\RPConnect.pdb
+E:\Projects\RPLIDAR\RPLIDAR\RPConnect\obj\Debug\RPConnect.csprojResolveAssemblyReference.cache

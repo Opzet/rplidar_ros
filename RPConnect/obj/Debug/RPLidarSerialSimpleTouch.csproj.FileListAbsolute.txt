@@ -1,0 +1,16 @@
+E:\Projects\RPLIDAR\RPLIDAR\RPConnect\bin\Debug\RPLidarSerialSimpleTouch.exe
+E:\Projects\RPLIDAR\RPLIDAR\RPConnect\bin\Debug\RPLidarSerialSimpleTouch.pdb
+E:\Projects\RPLIDAR\RPLIDAR\RPConnect\bin\Debug\RPLidarSerial.dll
+E:\Projects\RPLIDAR\RPLIDAR\RPConnect\bin\Debug\RPLidarSerial.pdb
+E:\Projects\RPLIDAR\RPLIDAR\RPConnect\obj\Debug\RPLidarSerialSimpleTouch.csprojResolveAssemblyReference.cache
+E:\Projects\RPLIDAR\RPLIDAR\RPConnect\obj\Debug\RPLidarSerialSimpleTouch.exe
+E:\Projects\RPLIDAR\RPLIDAR\RPConnect\obj\Debug\RPLidarSerialSimpleTouch.pdb
+C:\Users\Brainstorm - Editing\Desktop\RPLIDAR\RPLIDAR\RPConnect\bin\Debug\RPLidarSerialSimpleTouch.exe
+C:\Users\Brainstorm - Editing\Desktop\RPLIDAR\RPLIDAR\RPConnect\bin\Debug\RPLidarSerialSimpleTouch.pdb
+C:\Users\Brainstorm - Editing\Desktop\RPLIDAR\RPLIDAR\RPConnect\bin\Debug\RPLidarSerial.dll
+C:\Users\Brainstorm - Editing\Desktop\RPLIDAR\RPLIDAR\RPConnect\bin\Debug\RPLidarSerial.pdb
+C:\Users\Brainstorm - Editing\Desktop\RPLIDAR\RPLIDAR\RPConnect\obj\Debug\RPLidarSerialSimpleTouch.csprojResolveAssemblyReference.cache
+C:\Users\Brainstorm - Editing\Desktop\RPLIDAR\RPLIDAR\RPConnect\obj\Debug\RPLidarSerialSimpleTouch.exe
+C:\Users\Brainstorm - Editing\Desktop\RPLIDAR\RPLIDAR\RPConnect\obj\Debug\RPLidarSerialSimpleTouch.pdb
+E:\Projects\RPLIDAR\Release\RPConnect\obj\Debug\RPLidarSerialSimpleTouch.exe
+E:\Projects\RPLIDAR\Release\RPConnect\obj\Debug\RPLidarSerialSimpleTouch.pdb
